@@ -1,6 +1,3 @@
-# Jacob Kroner
-# Neural Networks
-
 import sys
 import random
 import math
